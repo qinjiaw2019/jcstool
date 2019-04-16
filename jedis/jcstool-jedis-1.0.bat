@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=jcstool-jedis-1.0.jar -DgroupId=com.jcstool -DartifactId=jcstool-jedis -Dversion=1.0 -Dpackaging=jar
