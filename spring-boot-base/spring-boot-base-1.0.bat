@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=spring-boot-base-1.0.jar -DgroupId=com.jcstool -DartifactId=spring-boot-base -Dversion=1.0 -Dpackaging=jar 
